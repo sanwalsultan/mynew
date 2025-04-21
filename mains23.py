@@ -1,8 +1,7 @@
 import streamlit as st
 import re
-st.title("Compact Calculator")
+st.title('Calculator made By "Sanwal Mehmood"')
 
-# --- Custom Styles ---
 st.markdown("""
     <style>
         .stApp {
