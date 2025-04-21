@@ -1,6 +1,5 @@
 import streamlit as st
 import re
-
 st.title("Compact Calculator")
 
 # --- Custom Styles ---
